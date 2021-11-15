@@ -87,6 +87,8 @@ One file is included :
 
   1. kg.js
 
+From command line, run the command: node kg  
+
 I have used Node JS to complete this exercise
 I have used two modules
     1. Axios, used for get request to the URL specified
