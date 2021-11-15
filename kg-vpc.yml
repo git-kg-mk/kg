@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 
-Description: This template creates vpc with public and private subnets, along with some security groups.
+Description: This template creates vpc with public subnets, along with some security groups.
              I have not used paramaters,have hard coded various values,
              for the purposes of this exercise
 
